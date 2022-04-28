@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellywin (but you can just call me Kelly!) 
-- 👀 I’m interested in learning about AWS/Cloud. 
-- 🌱 I’m currently enrolled in the Junior Cloud Practitioner program at Generation USA. 
+- 👀 I’m interested in learning about the Cloud (goal: get into cloud security) ☁️  
+- 🌱 I’m currently enrolled in the Junior Cloud Practitioner program at Generation USA. I was recently accepted into the Cybersecurity program at Springboard! 
 - 📫 How to reach me: either by email or on Linkedin!
 
 <!---
